@@ -1,0 +1,115 @@
+python --version`
+exit
+pip install git+https://github.com/openai/whisper.git
+git --version
+pip install git+https://github.com/openai/whisper.git
+& C:/Users/shail.shah/AppData/Local/Programs/Python/Python311/python.exe c:/Users/shail.shah/Downloads/scribe.py
+pip install pydub
+& C:/Users/shail.shah/AppData/Local/Programs/Python/Python311/python.exe c:/Users/shail.shah/Downloads/scribe.py
+pip install --upgrade openai
+& C:/Users/shail.shah/AppData/Local/Programs/Python/Python311/python.exe c:/Users/shail.shah/Downloads/scribe.py
+pip install reportlab
+& C:/Users/shail.shah/AppData/Local/Programs/Python/Python311/python.exe c:/Users/shail.shah/Downloads/scribe.py
+pip install moviepy
+& C:/Users/shail.shah/AppData/Local/Programs/Python/Python311/python.exe c:/Users/shail.shah/Downloads/scribe.py
+pip install transformers
+& C:/Users/shail.shah/AppData/Local/Programs/Python/Python311/python.exe c:/Users/shail.shah/Downloads/scribe.py
+python .\scribe.py trial.m4a
+python scribe.py trial.m4a
+python scribe.py trial
+python scribe.py trial.m4a
+python scribe.py C:\Users\shail.shah\Downloads\trial.m4a
+python scribe.py C:/Users/shail.shah/Downloads/trial.m4a
+python scribe.py C:/Users/shail.shah/Downloads/trial
+python scribe.py C:/Users/shail.shah/Downloads/trial.m4a
+& C:/Users/shail.shah/AppData/Local/Programs/Python/Python311/python.exe c:/Users/shail.shah/Downloads/scribe.py
+python scribe.py trial.m4a
+python scribe.py trial.m4a& C:/Users/shail.shah/AppData/Local/Programs/Python/Python311/python.exe c:/Users/shail.shah/Downloads/scribe.py
+python scribe.py trial.m4a
+& C:/Users/shail.shah/AppData/Local/Programs/Python/Python311/python.exe c:/Users/shail.shah/Downloads/scribe.py
+ls
+python trial.m4a
+python audio_to_wav.py .\trial.m4a
+python audio_to_wav.py trial.m4a
+python scribe.py trial.m4a
+python scribe.py C:/Users/shail.shah/Downloads/trial.m4a
+python scribe.py C:/Users/shail.shah/Downloads/trial
+python scribe.py C:/Users/shail.shah/Documents/Sound recordings/Recording.m4a
+cd ..
+python scribe.py .\Recording.m4a
+cd .\Downloads\
+python scribe.py .\Recording.m4a
+python scribe.py Recording.m4a
+& C:/Users/shail.shah/AppData/Local/Programs/Python/Python311/python.exe c:/Users/shail.shah/Downloads/scribe.py
+& C:/Users/shail.shah/AppData/Local/Programs/Python/Python311/python.exe c:/Users/shail.shah/Desktop/ML_code/scribe.py
+cd C:/Users/shail.shah/Desktop/ML_code/
+python .\scribe.py .\Recording.m4a
+python scribe.py Recording.m4a
+& C:/Users/shail.shah/AppData/Local/Programs/Python/Python311/python.exe c:/Users/shail.shah/Desktop/ML_code/scribe.py
+& C:/Users/shail.shah/AppData/Local/Programs/Python/Python311/python.exe c:/Users/shail.shah/Desktop/ML_code/test.py
+& C:/Users/shail.shah/AppData/Local/Programs/Python/Python311/python.exe c:/Users/shail.shah/Desktop/ML_code/scribe.py
+cd .\Desktop\
+cd .\ML_code\
+& C:/Users/shail.shah/AppData/Local/Programs/Python/Python311/python.exe c:/Users/shail.shah/Desktop/ML_code/scribe.py
+python --version
+& C:/Users/shail.shah/AppData/Local/Programs/Python/Python311/python.exe c:/Users/shail.shah/Desktop/ML_code/scribe.py
+pip install langdetect
+& C:/Users/shail.shah/AppData/Local/Programs/Python/Python311/python.exe c:/Users/shail.shah/Desktop/ML_code/scribe.py
+pip install ffmpeg
+& C:/Users/shail.shah/AppData/Local/Programs/Python/Python311/python.exe c:/Users/shail.shah/Desktop/ML_code/scribe.py
+pip uninstall ffmpeg
+pip install ffmpeg-python
+& C:/Users/shail.shah/AppData/Local/Programs/Python/Python311/python.exe c:/Users/shail.shah/Desktop/ML_code/scribe.py
+cd .\Desktop\
+cd .\ML_code\
+& C:/Users/shail.shah/AppData/Local/Programs/Python/Python311/python.exe c:/Users/shail.shah/Desktop/ML_code/scribe.py
+cd .\Desktop\ML_code\
+& C:/Users/shail.shah/AppData/Local/Programs/Python/Python311/python.exe c:/Users/shail.shah/Desktop/ML_code/scribe.py
+pip install pyaudio
+& C:/Users/shail.shah/AppData/Local/Programs/Python/Python311/python.exe c:/Users/shail.shah/Desktop/ML_code/scribe.py
+pip install pyinstaller
+cd .\Desktop\
+cd .\ML_code\
+& C:/Users/shail.shah/AppData/Local/Programs/Python/Python311/python.exe c:/Users/shail.shah/Desktop/ML_code/scribe.py
+pip install keyboard
+& C:/Users/shail.shah/AppData/Local/Programs/Python/Python311/python.exe c:/Users/shail.shah/Desktop/ML_code/scribe.py
+pyinstaller --onefile your_script.py
+pyinstaller --onefile scribe.py
+& C:/Users/shail.shah/AppData/Local/Programs/Python/Python311/python.exe c:/Users/shail.shah/Desktop/ML_code/scribe.py
+pyinstaller --onefile scribe.py
+cd 
+cd ..
+& C:/Users/shail.shah/AppData/Local/Programs/Python/Python311/python.exe c:/Users/shail.shah/Desktop/ML_code/scribe.py
+pyinstaller --onefile scribe.py
+cd .\Desktop\ML_code\
+pyinstaller --onefile scribe.py
+& C:/Users/shail.shah/AppData/Local/Programs/Python/Python311/python.exe c:/Users/shail.shah/Desktop/ML_code/scribe.py
+pip install whisper
+cd .\Desktop\ML_code\
+pyinstaller --onefile scribe.py
+pip install numpy
+python --version
+& C:/Users/shail.shah/AppData/Local/Programs/Python/Python311/python.exe c:/Users/shail.shah/Desktop/ML_code/scribe.py
+pyinstaller --onefile scribe.py
+pip install ffmpeg
+pyinstaller --onefile scribe.py --recursive-copy-metadata "openai-whisper"
+pyinstaller --onefile --hidden-import=whisper your_script.py
+pyinstaller --onefile --hidden-import=whisper scribe.py
+& C:/Users/shail.shah/AppData/Local/Programs/Python/Python311/python.exe c:/Users/shail.shah/Desktop/ML_code/scribe.py
+pyinstaller --onefile scribe.py
+pyinstaller --onefile --add-data "C:\Users\shail.shah\AppData\Local\Programs\Python\Python311\Lib\site-packages\whisper" scribe.py
+pyinstaller --onefile --add-data "C:\Users\shail.shah\AppData\Local\Programs\Python\Python311\Lib\site-packages\whisper\assets;whisper\assets" scribe.py
+& C:/Users/shail.shah/AppData/Local/Programs/Python/Python311/python.exe c:/Users/shail.shah/Desktop/ML_code/scribe.py
+& C:/Users/shail.shah/AppData/Local/Programs/Python/Python311/python.exe c:/Users/shail.shah/Desktop/ML_code_v2/scribe.py
+pip install gensim
+& C:/Users/shail.shah/AppData/Local/Programs/Python/Python311/python.exe c:/Users/shail.shah/Desktop/ML_code/scribe.py
+pip install gensim
+& C:/Users/shail.shah/AppData/Local/Programs/Python/Python311/python.exe c:/Users/shail.shah/Desktop/ML_code/scribe.py
+pip install sentencepiece
+& C:/Users/shail.shah/AppData/Local/Programs/Python/Python311/python.exe c:/Users/shail.shah/Desktop/ML_code/scribe.py
+pip install pysummarization`
+exit
+git config --global user.email "sshah115"
+git config --global user.name "Shail"
+git config http.postBuffer 524288000
+git reset --hard origin
